@@ -1,5 +1,8 @@
+#Taken from a coursera forum, posted by Frank Evans.
+#Some minor modifications
 
-setwd("C:/Users/IKI/Dropbox/PHD ILLINOIS/R  and Econometrics/Coursera/R programing/Week 3/ProgrammingAssignment2")
+## set the working directory
+setwd("")
 
 
 source("cachematrix.R")
